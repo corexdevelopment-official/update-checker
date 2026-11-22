@@ -1,13 +1,7 @@
-##CoreX Update Checker
+# CoreX Update Checker
 
-This is the official update checker for CoreX Scripts.
+Official update checker for **CoreX Scripts**.
 
-The update checker allows CoreX resources to check
-for the latest versions and stay up to date.
+For documentation, downloads, and the latest updates, visit:
 
-For updates, downloads, documentation, and more visit:
-
-https://corex-website-c3u.pages.dev/
-
-CoreX Scripts | Built for developers
-
+**https://corex-website-c3u.pages.dev/**
