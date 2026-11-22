@@ -1,6 +1,4 @@
-===================================================
 CoreX Update Checker
-===================================================
 
 This is the official update checker for CoreX Scripts.
 
@@ -13,4 +11,4 @@ https://corex-website-c3u.pages.dev/
 
 ===================================================
 CoreX Scripts | Built for developers
-===================================================
+
